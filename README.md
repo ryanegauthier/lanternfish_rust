@@ -1,9 +1,6 @@
 # lanternfish_rust
 lanternfish in rust rather than c++
 
-# lanternfish
-c++ exponential problem
-
 Instructions
 Below is a straightforward (but time intensive) math problem - a perfect job for a computer!
 Ideally, a coded solution for this problem should take an hour or two. The problem is also broken
